@@ -1,0 +1,16 @@
+id: dee1a752-f538-4228-9eab-7bb59a3d6adb
+name: freelancebot
+description: "Generates winning personalized freelance proposals"
+tier: prototype
+lane: side-projects
+priority: low
+category: text
+focus: false
+open_tasks: 0
+oss: false
+stack: [typescript, react, convex, vite]
+repo: https://github.com/mxn2020/freelancebot
+deploy_url: null
+last_active: 2026-03-02
+tags: [ai, convex]
+notes:

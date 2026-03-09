@@ -1,0 +1,12 @@
+services:
+  convex:
+    project: FreelanceBot
+  vercel:
+    project: FreelanceBot
+  stripe:
+    mode: live
+  nvidia:
+    api: nvidia-nims
+  github:
+    owner: mxn2020
+    repo: freelancebot
